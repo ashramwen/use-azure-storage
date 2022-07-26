@@ -35,6 +35,11 @@
   },
   "name": "use-azure-storage",
   "author": "Augustine",
+  "description": "A React hook of using @azure/storage-blob",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashramwen/use-azure-storage"
+  },
   "module": "dist/use-azure-storage.esm.js",
   "size-limit": [
     {
